@@ -1,13 +1,13 @@
 [db]
 ; [Database connection info]
 ; Host
-host = mysql.he-jepsen.dk
+host = 
 ; Username
-username = he_jepsen_dk
+username = 
 ; Password
-password = rd5cpfg6
+password = 
 ; Database
-database = he_jepsen_dk_db2
+database = 
 
 [cookie]
 ; [Cookie info]
@@ -24,6 +24,3 @@ session_name = user
 ; Token name
 ; Used for the Token class in libs/Token.php
 token_name = token
-; Basket session name
-; Used for shopping basket
-basket_name = basket
